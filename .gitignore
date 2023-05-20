@@ -30,5 +30,5 @@ bin/
 
 ### Additional ###
 /.idea
-/target
+
 memory_leak_example.iml
